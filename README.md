@@ -18,3 +18,6 @@
 - Dropbox
 - Chrome
 - Firefox
+
+## Some helpful gists
+https://gist.github.com/jonathanyeong/b7f5b9274b4694b42e56e95e177d7e6b
