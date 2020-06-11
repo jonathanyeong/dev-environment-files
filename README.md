@@ -5,19 +5,20 @@
 * Create SSH keys (archive old ones) `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`. https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 ## Apps to install
-- Notion
-- Reeder
-- Slack
-- Spotify
-- Day One
-- Todoist
-- iTerm
-- Shiftit
-- VSCode
-- Alfred 4
-- Dropbox
-- Chrome
-- Firefox
+- [ ] Notion
+- [ ] Reeder
+- [ ] Slack
+- [ ] Spotify
+- [ ] Day One
+- [ ] Todoist
+- [ ] iTerm
+- [ ] Magnet ~Shiftit~
+- [ ] VSCode
+- [ ] Alfred 4
+- [ ] Dropbox
+- [ ] Chrome
+- [ ] Firefox
+- [ ] Lightroom + Adobe
 
 ## Some helpful gists
 https://gist.github.com/jonathanyeong/b7f5b9274b4694b42e56e95e177d7e6b
